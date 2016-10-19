@@ -13,6 +13,7 @@
 		14005DA61DB7D49E005B554B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14005DA41DB7D49E005B554B /* LaunchScreen.storyboard */; };
 		14005DAE1DB7D8A8005B554B /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14005DAD1DB7D8A8005B554B /* Student.swift */; };
 		14005DB01DB7DC80005B554B /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14005DAF1DB7DC80005B554B /* NetworkController.swift */; };
+		14005DB21DB7DCCD005B554B /* StudentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14005DB11DB7DCCD005B554B /* StudentController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		14005DA71DB7D49E005B554B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14005DAD1DB7D8A8005B554B /* Student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 		14005DAF1DB7DC80005B554B /* NetworkController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
+		14005DB11DB7DCCD005B554B /* StudentController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				14005D9F1DB7D49E005B554B /* Main.storyboard */,
 				14005DAD1DB7D8A8005B554B /* Student.swift */,
 				14005DAF1DB7DC80005B554B /* NetworkController.swift */,
+				14005DB11DB7DCCD005B554B /* StudentController.swift */,
 				14005DA21DB7D49E005B554B /* Assets.xcassets */,
 				14005DA41DB7D49E005B554B /* LaunchScreen.storyboard */,
 				14005DA71DB7D49E005B554B /* Info.plist */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14005D9C1DB7D49E005B554B /* AppDelegate.swift in Sources */,
+				14005DB21DB7DCCD005B554B /* StudentController.swift in Sources */,
 				14005DAE1DB7D8A8005B554B /* Student.swift in Sources */,
 				14005DB01DB7DC80005B554B /* NetworkController.swift in Sources */,
 			);
