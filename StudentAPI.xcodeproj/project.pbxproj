@@ -12,6 +12,7 @@
 		14005DA31DB7D49E005B554B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14005DA21DB7D49E005B554B /* Assets.xcassets */; };
 		14005DA61DB7D49E005B554B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14005DA41DB7D49E005B554B /* LaunchScreen.storyboard */; };
 		14005DAE1DB7D8A8005B554B /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14005DAD1DB7D8A8005B554B /* Student.swift */; };
+		14005DB01DB7DC80005B554B /* NetworkController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14005DAF1DB7DC80005B554B /* NetworkController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		14005DA51DB7D49E005B554B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14005DA71DB7D49E005B554B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14005DAD1DB7D8A8005B554B /* Student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		14005DAF1DB7DC80005B554B /* NetworkController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				14005D9B1DB7D49E005B554B /* AppDelegate.swift */,
 				14005D9F1DB7D49E005B554B /* Main.storyboard */,
 				14005DAD1DB7D8A8005B554B /* Student.swift */,
+				14005DAF1DB7DC80005B554B /* NetworkController.swift */,
 				14005DA21DB7D49E005B554B /* Assets.xcassets */,
 				14005DA41DB7D49E005B554B /* LaunchScreen.storyboard */,
 				14005DA71DB7D49E005B554B /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				14005D9C1DB7D49E005B554B /* AppDelegate.swift in Sources */,
 				14005DAE1DB7D8A8005B554B /* Student.swift in Sources */,
+				14005DB01DB7DC80005B554B /* NetworkController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
